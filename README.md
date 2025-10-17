@@ -6,7 +6,7 @@ Interactive Power BI dashboard analyzing two years of retail data across Florida
 ├── FloridaShopsQuery.sql       # SQL query for data joining & enrichment  
 ├── sales_2yrs.csv              # Sales dataset  
 ├── weather_2yrs.csv            # Weather dataset  
-├── survey_2yrs.csv             # Customer demographics dataset  
+├── survey_2yrs.csv             # Customer demographics survey dataset  
 └── README.md                   # Project documentation
 
 # _Created and designed by **Amit Pizanti** | 2025_
